@@ -1,1 +1,2 @@
-{"name": "rize-openwork-canary", "version": "1.0.0", "description": "Throwaway test plugin: checks whether OpenWork marketplace delivery ships a skill's scripts and reference files, not just SKILL.md."}
+{"name": "rize-openwork-canary", "version": "1.0.0", "description": "Throwaway test plugin: checks whether OpenWork marketplace delivery ships a skill's scripts and reference files, not just SKILL.md.", "author": {"name": "Greg Edwards"}, "skills": ["./skills/canary-check"]}
+
